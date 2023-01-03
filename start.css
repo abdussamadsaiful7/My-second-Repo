@@ -69,5 +69,9 @@ header{
     color: #fff;
     margin: 0px 8px ;
     border-radius: 15px;
+}
+.about-logo img{
+    width: 400px;
+    height: auto;
 
 }
